@@ -90,12 +90,12 @@ The goal was **efficiency without sacrificing quality or correctness**.
 ## 📦 Deliverables
 
 ### 📱 APK
-👉 **Download APK:**  
-[ADD APK DOWNLOAD LINK HERE]
+👉 [**Download APK:**](https://github.com/rathorerahul586/JivoCare-demo-showcase/releases/download/v1/app-release.apk)
+
 
 ### 🎥 Screen Recording
 👉 **Watch Demo Video:**  
-[ADD SCREEN RECORDING LINK HERE]
+https://drive.google.com/file/d/1059e-ZliVaWjA6LcDQ_8P1MnRtY1i7_V/view?usp=drive_link
 
 The video demonstrates:
 - App launch
