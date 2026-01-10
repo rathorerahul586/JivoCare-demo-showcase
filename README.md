@@ -1,4 +1,8 @@
-# 📱 Jivo Care Flutter Assignment – Application Showcase
+# 📱 Jivo Care Flutter Application Showcase
+
+> This is not just an assignment submission —  
+> it represents a **professional work sample** demonstrating architecture, state management, and real-world Flutter practices.
+
 
 ## Overview
 
