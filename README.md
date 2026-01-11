@@ -94,7 +94,7 @@ The goal was **efficiency without sacrificing quality or correctness**.
 ## 📦 Deliverables
 
 ### 📱 APK
-👉 [**Download APK:**](https://github.com/rathorerahul586/JivoCare-demo-showcase/releases/download/v1/app-release.apk)
+👉 [**Download APK:**](https://github.com/rathorerahul586/JivoCare-demo-showcase/releases/download/v2/app-release.apk)
 
 
 ### 🎥 Screen Recording
