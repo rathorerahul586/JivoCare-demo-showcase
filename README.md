@@ -99,7 +99,7 @@ The goal was **efficiency without sacrificing quality or correctness**.
 
 ### 🎥 Screen Recording
 👉 **Watch Demo Video:**  
-https://drive.google.com/file/d/1059e-ZliVaWjA6LcDQ_8P1MnRtY1i7_V/view?usp=drive_link
+https://drive.google.com/file/d/1059e-ZliVaWjA6LcDQ_8P1MnRtY1i7_V/view?usp=sharing
 
 The video demonstrates:
 - App launch
